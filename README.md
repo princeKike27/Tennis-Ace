@@ -4,7 +4,7 @@ For this project I analyzed data from the Association of Tennis Professionals (A
 
 Throughout the project you will be able to find:
 
-    Data cleaning and standardization.
-    Analysis of the Correlation of Numeric Features.
-    Scatter Plots of Relevant Features Vs Outcome.
-    Creation of a Multiple Linear Regression Model to Predict Wins.
+* Data cleaning and standardization.
+* Analysis of the Correlation of Numeric Features.
+* Scatter Plots of Relevant Features Vs Outcome.
+* Creation of a Multiple Linear Regression Model to Predict Wins.
